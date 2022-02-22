@@ -1,17 +1,5 @@
 # Yeokku
-국내 여행 계획 플래너
 
-목표 : " 친구와 실시간으로 꾸미는 여행 계획 "
+S.O.S 프로젝트 연결 레포지토리입니다.
 
-기간 : 2021년 08월 02일 ~ 2021년 10월 01일 (2개월)
-
-개발 환경 : 
-
-     SCM : GitHub, SourceTree
-     DBMS : Oracle Xe 11g
-     WS / WAS : Apache, Tomcat
-     OS : Windows, IOS
-     Develop Tool : Eclipse, VScode
-     FrontEnd : HTML5, CSS3, JavaScript, Jquery, EL/JSTL, Ajax, Bootstrap
-     BackEnd : JAVA 1.8EE, JSP, Servlet, Maven, Spring Legacy, MyBatis
-     Communication : Trello, Notion, ERD Cloud
+해당 프로젝트는 [ https://github.com/KH-FINAL-2TEAM/Final_Project_Yeokku ] 에서 확인 가능합니다.
